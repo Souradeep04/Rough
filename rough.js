@@ -1,2 +1,2 @@
-console.log("Hi");
-console.log("Bye");
+console.log("Hello Everyone");
+console.log("Bye Everyone");
