@@ -1,4 +1,3 @@
-console.log("Hello Everyone");
-console.log("Bye Everyone");
-console.log("HHHOO")
-console.log("Tai naki ??");
+console.log("Spider-man");
+console.log("Hulk");
+console.log("Omni Man");
